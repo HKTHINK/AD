@@ -1,3 +1,0 @@
-#Sun May 12 04:40:37 CST 2024
-BORDER_FOG=false
-MOON_I=1.05
