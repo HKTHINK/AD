@@ -3,7 +3,7 @@
   "author": "HKTHINK",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/HKTHINK/mc-/main",
+  "fileApi": "https://raw.githubusercontent.com/HKTHINK/AD/master",
   "files": [
     {
       "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
